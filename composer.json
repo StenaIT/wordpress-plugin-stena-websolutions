@@ -3,6 +3,6 @@
     "description": "A plugin to gather common helpers and security for our Wordpress sites.",
     "type": "wordpress-plugin",
     "require": {
-        "composer/installers": "~1.0"
+        "composer/installers": "~2.0"
     }
 }
