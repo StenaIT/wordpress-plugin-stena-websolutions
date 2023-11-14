@@ -1,0 +1,8 @@
+{
+    "name": "stenait/wordpress-plugin-stena-websolutions",
+    "description": "A plugin to gather common helpers and security for our Wordpress sites.",
+    "type": "wordpress-plugin",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
