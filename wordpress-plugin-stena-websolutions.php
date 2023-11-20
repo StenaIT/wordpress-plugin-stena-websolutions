@@ -8,7 +8,7 @@ Author: Web Solutions
 
 namespace SwsHelperPlugin;
 
-require_once __DIR__ . '/classes/antispambot.php'; // Adjust the path as needed
+require_once __DIR__ . '/classes/antispambot.php';
 
 use SwsHelperPlugin\classes\AntiSpamBot;
 
