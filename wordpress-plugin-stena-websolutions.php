@@ -2,7 +2,7 @@
 /*
 Plugin Name: Wordpress Utilities | Web Solutions
 Description: Generic helper functions to adhere to our Wordpress sites.
-Version: 1.1.0
+Version: 1.1.1
 Author: Web Solutions
 */
 
