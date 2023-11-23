@@ -4,6 +4,8 @@
     WP constants shall be in wp-config.php, or in application.php if in Bedrock etc.
 
     Code below uses the bedrock way, with Config::define, as well as env instead of the native php function of getenv()
+
+    Bedrock tip: add before the Config::apply(); in application.php, it for example overrides the bedrock default for WP_POST_REVISIONS
 */
 // <stena-websolutions-additions>
 /*
